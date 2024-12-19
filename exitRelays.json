@@ -2142,12 +2142,6 @@
     "city": "Vienna"
   },
   {
-    "fingerprint": "75FE8ECADEC75AE66769051B581834827D500E03",
-    "ip": "51.222.96.72",
-    "country": "CA",
-    "city": "Montréal"
-  },
-  {
     "fingerprint": "DAF6B2757BBFFCB1D74C0EE448F36D805B39DBD5",
     "ip": "138.201.154.211",
     "country": "DE",
@@ -2452,5 +2446,59 @@
     "ip": "57.128.218.71",
     "country": "PL",
     "city": "Warsaw"
+  },
+  {
+    "fingerprint": "37F6FF7616CBF1EC4AC2315094FAC20E4C793294",
+    "ip": "194.164.91.195",
+    "country": "GB",
+    "city": "Waterlooville"
+  },
+  {
+    "fingerprint": "C606F578D181DFB1407FF91CD197C459B2790DC6",
+    "ip": "172.86.92.44",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "BFC1FA9DC242110BA5CDB37CEBDD309EA58260FA",
+    "ip": "206.189.11.117",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "4F706E691AB3060A8F4365F8666702D7E356034A",
+    "ip": "217.160.154.55",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "EC46B777D7741BE806A2495FB77C709B6ACC24C5",
+    "ip": "49.13.29.78",
+    "country": "DE",
+    "city": "Falkenstein"
+  },
+  {
+    "fingerprint": "B3399307B4AB9C3971B74875D13440048531178C",
+    "ip": "185.232.69.95",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "CA7B630C514196C9DED64A6176F3AE3524CEDF1C",
+    "ip": "77.90.28.164",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "B18AD48825AA6FB25ABE5831F535DB2C6AE6650D",
+    "ip": "5.255.102.82",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "FC1551732F213AE69F5FAE6B9BA19A22E0996244",
+    "ip": "5.255.97.56",
+    "country": "NL",
+    "city": "Amsterdam"
   }
 ]
