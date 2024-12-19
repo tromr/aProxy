@@ -2434,5 +2434,23 @@
     "ip": "37.221.212.177",
     "country": "HU",
     "city": "Budapest"
+  },
+  {
+    "fingerprint": "B614FB345749A1A89B58042082BB1D55EDF47390",
+    "ip": "164.92.230.17",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "1C4EED19C9C54D0D1D3AE9996B2AB765F6EA985D",
+    "ip": "194.164.124.239",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "0CE564CDD276C04EC088E40E6C7CB759C6DC7F15",
+    "ip": "57.128.218.71",
+    "country": "PL",
+    "city": "Warsaw"
   }
 ]
