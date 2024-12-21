@@ -1,0 +1,10 @@
+DataDirectory DIR
+NewCircuitPeriod 60 
+MaxClientCircuitsPending 30
+MaxCircuitDirtiness 300
+SocksPort 9151
+ControlPort 0
+ConfluxEnabled 1
+ExitNodes 
+ReducedExitPolicy 1
+CircuitBuildTimeout 120
