@@ -1,4 +1,5 @@
 DataDirectory DIR
+Log notice file
 NewCircuitPeriod 60 
 MaxClientCircuitsPending 30
 MaxCircuitDirtiness 300
