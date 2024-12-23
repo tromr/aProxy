@@ -1,7 +1,7 @@
 DataDirectory DIR
 Log notice file
 NewCircuitPeriod 60 
-MaxClientCircuitsPending 1
+MaxClientCircuitsPending 10
 MaxCircuitDirtiness 300
 SocksPort 9151
 ControlPort 0
