@@ -5,7 +5,7 @@ MaxClientCircuitsPending 1
 MaxCircuitDirtiness 300
 SocksPort 9151
 ControlPort 0
-ConfluxEnabled 1
+ConfluxEnabled 0
 ExitNodes 
 ReducedExitPolicy 1
 CircuitBuildTimeout 120
