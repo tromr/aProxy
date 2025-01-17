@@ -1,5 +1,4 @@
 [
-  {},
   {
     "fingerprint": "5F94833043EB92018319CB83559706CC1127151B",
     "ip": "5.78.94.15",
@@ -1703,5 +1702,251 @@
     "ip": "188.68.58.225",
     "country": "DE",
     "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "C6B75705887233A546F3AF6A52C36875A85C4FA4",
+    "ip": "172.236.31.60",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "979B3ADBED60B4E5F2BFABA31BBA257D2B1CF1AB",
+    "ip": "195.88.57.91",
+    "country": "US",
+    "city": "Miami"
+  },
+  {
+    "fingerprint": "88126052DE3EDB822917419B7ED0DB0DC3384829",
+    "ip": "152.53.15.191",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "8CD69480F3BF9AA232C6A088A9029E3044CE2D83",
+    "ip": "84.234.96.242",
+    "country": "RO",
+    "city": "Bucharest"
+  },
+  {
+    "fingerprint": "F7753039841CE28A29EB0DB7B77053E15C8EBB0A",
+    "ip": "167.235.132.203",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "69940ECFD5636AC2FA27376508E3D0273BA4982F",
+    "ip": "188.245.107.47",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "134697A59DB97E3A2ED8BD960360C1964A1629F7",
+    "ip": "188.245.76.198",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "DCA478A927ECACDD4E1F71D537F39C7A7F507969",
+    "ip": "5.255.116.57",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "806FC1B04D4721DD1E265D4FBD1450A9739128ED",
+    "ip": "185.132.53.61",
+    "country": "NL",
+    "city": "Lelystad"
+  },
+  {
+    "fingerprint": "215CA2871595935B861F640A7DCE2CD807D06229",
+    "ip": "37.114.34.144",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "167E9E2A24B7A40161C279D09225230026AE8DD1",
+    "ip": "104.244.74.231",
+    "country": "LU",
+    "city": "Luxembourg"
+  },
+  {
+    "fingerprint": "AA64703766741517CB1EA631F57BD4A126656CEC",
+    "ip": "49.13.85.129",
+    "country": "DE",
+    "city": "Falkenstein"
+  },
+  {
+    "fingerprint": "DCD1678C4B88C20915447863EF92B34329C59AA0",
+    "ip": "5.181.21.83",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "555FBF068FC64C289C59B526E591B738783B44F8",
+    "ip": "152.53.117.253",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "5018F0E05861232FF37F5F274CE05E4E7AB21611",
+    "ip": "152.53.86.7",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "36FE189BCAD0415CACA6EE2712D9847178E8B077",
+    "ip": "51.75.175.29",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "C82CA8CD5776E4D2F237600BCC21E902FCCC7F83",
+    "ip": "185.8.105.98",
+    "country": "LT",
+    "city": "Šiauliai"
+  },
+  {
+    "fingerprint": "F444979A630CCE634A6A746C407DC35304C278B1",
+    "ip": "198.98.54.243",
+    "country": "US",
+    "city": "New York City"
+  },
+  {
+    "fingerprint": "3346B19891B78CDCCDD7E6D47F3A2573BA098C16",
+    "ip": "5.255.110.227",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "BF5D61E64E0EEBD824B323719DE116CF554BD71B",
+    "ip": "87.106.66.136",
+    "country": "DE",
+    "city": "Berlin"
+  },
+  {
+    "fingerprint": "B41B1DD25E46EC5F44FEB5E6E7198EF76E48C3DE",
+    "ip": "37.114.42.210",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "BAE04009D5B01E5C3C542A6BC2BCEFF38437C38F",
+    "ip": "37.120.167.81",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "7CC4736EC0AD3D6823EFC026F35A308F0EFAF089",
+    "ip": "89.58.10.128",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "1CB382F4D955E0261F636CEE77054FA490E49B5E",
+    "ip": "5.255.123.163",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "D7960315B034798DD4C139330D197D47102AC0CE",
+    "ip": "87.106.66.133",
+    "country": "DE",
+    "city": "Berlin"
+  },
+  {
+    "fingerprint": "EBFD6CD9968C01C4C9B0E12D8BA4BE5E58544CAA",
+    "ip": "146.103.41.183",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "6912249DD0208F97C4F60D74D1C8864B72AA3190",
+    "ip": "194.164.93.120",
+    "country": "GB",
+    "city": "Liverpool"
+  },
+  {
+    "fingerprint": "EA461CEAC36BCA0E33A87034F607AA2EBFC6955A",
+    "ip": "84.234.96.203",
+    "country": "RO",
+    "city": "Bucharest"
+  },
+  {
+    "fingerprint": "91A58472D13662A83FC07F16399616CF10C1B752",
+    "ip": "82.165.6.131",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "2AB45E1B030C47C1F7DA06D7697184AA8CAA9A27",
+    "ip": "84.32.190.240",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "E09A61A8875A479F9574EBF6C553D833BD840F19",
+    "ip": "85.215.249.84",
+    "country": "DE",
+    "city": "Berlin"
+  },
+  {
+    "fingerprint": "5019C6678BB93BD52A60271E118728EC28574599",
+    "ip": "85.235.64.119",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "0E4081759AA9A432D1007EA94A2FECCD05373138",
+    "ip": "107.189.13.147",
+    "country": "LU",
+    "city": "Luxembourg"
+  },
+  {
+    "fingerprint": "C294F8EEF97B069B7F2A00215B3D73885E24C176",
+    "ip": "89.58.60.217",
+    "country": "AT",
+    "city": "Wiener Neudorf"
+  },
+  {
+    "fingerprint": "38EE1B2CBEAF3BFE974850D85FF81D5DA681C4B0",
+    "ip": "37.221.212.170",
+    "country": "HU",
+    "city": "Budapest"
+  },
+  {
+    "fingerprint": "EC46B777D7741BE806A2495FB77C709B6ACC24C5",
+    "ip": "45.61.187.74",
+    "country": "US",
+    "city": "Miami"
+  },
+  {
+    "fingerprint": "F7EF00BDFA67682F2857C8216BE1495102E5F3A1",
+    "ip": "185.150.117.2",
+    "country": "LT",
+    "city": "Šiauliai"
+  },
+  {
+    "fingerprint": "1B42E8CDCF48B253233ABB15BCEB6DEEB6156334",
+    "ip": "5.255.115.164",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "D63ACE45B0277130E89D720E476675F17FA9DA69",
+    "ip": "79.99.41.92",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "DC2475766DE211DB70AC90990B5F45E2CEE95835",
+    "ip": "116.203.228.209",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "54E84F5EFAFA48EA03D3C9D441CBA773E1430251",
+    "ip": "5.255.121.181",
+    "country": "NL",
+    "city": "Amsterdam"
   }
 ]
