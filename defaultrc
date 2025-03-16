@@ -1,5 +1,6 @@
 DataDirectory DIR
 Log notice file
+CircuitBuildTimeout 120
 NewCircuitPeriod 60 
 MaxClientCircuitsPending 32
 MaxCircuitDirtiness 300
@@ -9,4 +10,4 @@ ConfluxEnabled 1
 ExitNodes 
 ReducedExitPolicy 1
 EntryNodes
-CircuitBuildTimeout
+
