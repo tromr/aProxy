@@ -6,7 +6,6 @@ MaxCircuitDirtiness 300
 SocksPort 9151
 ControlPort 0
 ConfluxEnabled 1
-EntryNodes
 ExitNodes 
 ReducedExitPolicy 1
 CircuitBuildTimeout 60
