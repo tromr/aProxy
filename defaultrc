@@ -9,4 +9,4 @@ ConfluxEnabled 1
 ExitNodes 
 ReducedExitPolicy 1
 EntryNodes
-CircuitBuildTimeout 60
+CircuitBuildTimeout
