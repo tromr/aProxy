@@ -9,5 +9,4 @@ ControlPort 0
 ConfluxEnabled 1
 ExitNodes 
 ReducedExitPolicy 1
-EntryNodes
 
