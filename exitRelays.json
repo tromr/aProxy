@@ -5669,5 +5669,395 @@
     "ip": "188.241.58.197",
     "country": "RO",
     "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "CF6E64A299FEB525F117F9FCEB8293460A6CE033",
+    "ip": "84.234.97.173",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "317CF597C11E10D7BEFE9ACAEA8B5C43783835EE",
+    "ip": "103.252.90.201",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "8432A68D7C9E9A23C92106FD1C55831F5FE90E11",
+    "ip": "185.254.96.182",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "5268E6A8EB6F58CAAA7B528DB2947D8C87814EF2",
+    "ip": "188.245.180.105",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "D554CD20387E6F787BA81A9693C968DDB5244167",
+    "ip": "94.131.12.31",
+    "country": "CH",
+    "city": "Bern"
+  },
+  {
+    "fingerprint": "5C66DFAD233E50A00702E0392AFA210C8D5C7228",
+    "ip": "84.234.97.69",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "D16406014296E3A754A1D8D598F4F76AB7E2F39F",
+    "ip": "188.241.58.205",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "BFC1FA9DC242110BA5CDB37CEBDD309EA58260FA",
+    "ip": "206.189.11.117",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "A967EF8EB80CFD7C68A9E45ADF7DC63F1F4C3FE4",
+    "ip": "103.252.90.17",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "6581AC5DA6FF334A39B8FC3A21021AA96D46420C",
+    "ip": "109.230.255.116",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "B77CA573FDEF2C9ABD6C5A3811A15F33769793C6",
+    "ip": "87.106.73.109",
+    "country": "DE",
+    "city": "Berlin"
+  },
+  {
+    "fingerprint": "27110F87E6085498C4794578613F528D97A4E05F",
+    "ip": "91.235.116.111",
+    "country": "RO",
+    "city": "Bucharest"
+  },
+  {
+    "fingerprint": "F6A76D7BF7B99B085DA522BD96885866F0421E55",
+    "ip": "37.114.51.24",
+    "country": "DE",
+    "city": "Dreieich"
+  },
+  {
+    "fingerprint": "C0C6726187B2B3BE08534F697AE87D5D84B9022B",
+    "ip": "193.201.82.240",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "1D77FA796E16CA579BC3202C157AC34C9188C00B",
+    "ip": "188.68.54.234",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "1B7DC00D501FC9E1A4F132304B57FE53F637DDF2",
+    "ip": "37.114.34.75",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "0F535F0FAF52016D6654668D4113540D3F3297E7",
+    "ip": "89.58.9.149",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "CA4A422CC67A226E117663C70615D62FAB73163E",
+    "ip": "188.214.30.29",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "D120FBFF4FF21C4E5122CF9A14600C9BD7D57F81",
+    "ip": "84.234.97.61",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "8A79D9CC8FF2833D6954CB52CC756379573499F0",
+    "ip": "188.214.30.174",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "EBD5DBCFC815CAE4BBB50D30098A9BADA58CFC19",
+    "ip": "152.53.85.84",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "FCE190F93BFC5344F6E2C683E3E7197A2684BD60",
+    "ip": "45.142.115.199",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "C70B93E55F62E3EA1C25E59F246D5B3CDEED54FD",
+    "ip": "78.47.122.96",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "804430D06B8F087E1B7911B5A35C2E2E1FF25B89",
+    "ip": "193.29.187.182",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "B651EB6F7B91C9611B30254159CFD76DBDC20949",
+    "ip": "109.230.255.2",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "89AD38DA6ABDBBD7C06AF8EF6798F4F4AFAB4863",
+    "ip": "188.214.30.206",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "1FAEE484B6D52FC0E8BC6B341F52DA15EFB6636E",
+    "ip": "85.255.6.9",
+    "country": "CZ",
+    "city": "Golčův Jeníkov"
+  },
+  {
+    "fingerprint": "6E5711212BDC64252FE3CFE81CF29E1D9BBEEAE5",
+    "ip": "84.32.248.81",
+    "country": "LT",
+    "city": "Šiauliai"
+  },
+  {
+    "fingerprint": "2BD96D60073CB176A38D77C42707A47D3C6620F0",
+    "ip": "81.172.242.233",
+    "country": "NL",
+    "city": "The Hague"
+  },
+  {
+    "fingerprint": "7BC5DE8D02C98D90EF16701D9DAE8AA1E5F229CA",
+    "ip": "91.225.219.87",
+    "country": "NL",
+    "city": "Lelystad"
+  },
+  {
+    "fingerprint": "CE9C91963549ED077093414CCE405AB478477792",
+    "ip": "37.114.55.252",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "471281CD0A569E9D2979F323DE2DBA1E3B311DE3",
+    "ip": "89.58.3.40",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "E9D86EE4380D584167390FAFFD9625650CECA573",
+    "ip": "87.106.66.123",
+    "country": "DE",
+    "city": "Berlin"
+  },
+  {
+    "fingerprint": "BF6CB0F629AA77738D215A3E0E9E211877BA1E12",
+    "ip": "109.230.255.49",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "BB2752454EF1839201847B7D78DE09C63D97962F",
+    "ip": "157.90.230.190",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "206E574F4AF14FC3DA9681B669D332816A5A2A9D",
+    "ip": "89.46.232.135",
+    "country": "CH",
+    "city": "Zürich"
+  },
+  {
+    "fingerprint": "500F13DD9946635A0A55F55937A5B750E280651E",
+    "ip": "176.97.114.175",
+    "country": "UA",
+    "city": "Kyiv"
+  },
+  {
+    "fingerprint": "9C38AD7CB4F9E3A8077A3212F4EC8D254146B7BB",
+    "ip": "89.58.15.45",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "5A8D8C58515C5BAF51C7AD95DC5B379C2B6CF5F6",
+    "ip": "78.47.30.168",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "763D0C10FDAFD60E2ED0A1AC0CC56AD89C727B2A",
+    "ip": "193.201.82.153",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "442F22E483C9E58A338D285070CC8E7C8C573D08",
+    "ip": "188.241.58.198",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "84EA0D5DD20CB9B8FA566ABADAB44B3AB1B0FF04",
+    "ip": "91.235.116.75",
+    "country": "RO",
+    "city": "Bucharest"
+  },
+  {
+    "fingerprint": "6984D07F54B48B276EB2370A14199E15624E37ED",
+    "ip": "188.241.58.195",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "47567B7394D925D1CB5188857675010930BFF7A9",
+    "ip": "84.32.185.216",
+    "country": "NL",
+    "city": "Amsterdam"
+  },
+  {
+    "fingerprint": "4DFF4E38FC53523DEC0F5B425A90C2559772A7AA",
+    "ip": "194.164.123.11",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "F0330EB34997100AA16A3950AA7F22B479B54168",
+    "ip": "212.132.110.246",
+    "country": "DE",
+    "city": "Berlin"
+  },
+  {
+    "fingerprint": "8EA49E72A15D51EEBD75A3714893B8A6FAF7AE9F",
+    "ip": "84.234.96.216",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "A3D472935545FE6650A16627370532F20F1EAE11",
+    "ip": "92.60.39.69",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "582CDACEE202895D95179C4746F80A217143B856",
+    "ip": "49.13.2.154",
+    "country": "DE",
+    "city": "Falkenstein"
+  },
+  {
+    "fingerprint": "F0326293056807A4799B7A76426269E92D56420F",
+    "ip": "138.199.175.244",
+    "country": "DE",
+    "city": "Falkenstein"
+  },
+  {
+    "fingerprint": "25AC1D38ACAA446E8B48544187FDE133F32CA4A4",
+    "ip": "45.144.28.90",
+    "country": "NL",
+    "city": "Lelystad"
+  },
+  {
+    "fingerprint": "92CF2287A8F9BDF7B2910F7464DA4CA7CBD2508F",
+    "ip": "103.252.90.80",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "69DC67302FD86447F8424B4DBD8B089B00F8FA34",
+    "ip": "84.234.98.160",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "D04B0E6A0E2595725E59A34615953CA4CFA61494",
+    "ip": "193.29.187.126",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "1F877A3448022AEDE98F5D164F1024C15A4DA094",
+    "ip": "103.252.90.13",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "988081D6AADDE4525685F13A8A074025E65B8754",
+    "ip": "212.227.83.9",
+    "country": "ES",
+    "city": "Madrid"
+  },
+  {
+    "fingerprint": "63E72C98C6221AC0A3FAA692D403BE3B75B2D68D",
+    "ip": "152.53.20.163",
+    "country": "DE",
+    "city": "Nürnberg"
+  },
+  {
+    "fingerprint": "07ACC806368624FBF9C601319F15B61F2A8D1D65",
+    "ip": "188.241.58.121",
+    "country": "RO",
+    "city": "Ploieşti"
+  },
+  {
+    "fingerprint": "C19CB793D3B33143E353A3E0C216A27B7193167A",
+    "ip": "84.234.97.73",
+    "country": "RO",
+    "city": "Craiova"
+  },
+  {
+    "fingerprint": "9551C8B2371D3BFFBE4974E67867F6A89C8CDEBB",
+    "ip": "88.218.79.187",
+    "country": "FR",
+    "city": "Strasbourg"
+  },
+  {
+    "fingerprint": "5CFBBF6D8FD7258483878979DC2BC6AE8D31DF38",
+    "ip": "103.252.89.245",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "A3D8E2A5CC86ADA9D92DE72F28ECAAC3C3F1A62E",
+    "ip": "172.86.69.98",
+    "country": "DE",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "fingerprint": "DA74629BB2CA3F6F87B4377FFB3FF27FCE9A33F1",
+    "ip": "91.235.116.162",
+    "country": "RO",
+    "city": "Bucharest"
+  },
+  {
+    "fingerprint": "4EE6A9B59A38CD64792E31D569C9103BFE70F2B7",
+    "ip": "78.129.240.92",
+    "country": "GB",
+    "city": "London"
+  },
+  {
+    "fingerprint": "68F039E5F0417C6F47160A286EB4533AD209679F",
+    "ip": "92.233.41.39",
+    "country": "GB",
+    "city": "Bradford"
   }
 ]
